@@ -1,0 +1,37 @@
+{
+  "apkFileName": "tf2m V3.6.0_src.apk",
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "assets/bin/Data/data.unity3d",
+    "assets/bin/Data/resources.resource",
+    "assets/bin/Data/sharedassets0.resource",
+    "assets/bin/Data/sharedassets1.resource",
+    "assets/bin/Data/sharedassets2.resource",
+    "assets/bin/Data/unity_app_guid",
+    "png"
+  ],
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-250627",
+  "sharedLibrary": false,
+  "VersionInfo": {
+    "versionName": "3.6.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {},
+  "apkFilePath": "/storage/emulated/0/Download/tf2m V3.6.0.apk",
+  "compactEntries": false,
+  "isFrameworkApk": false,
+  "sdkInfo": {
+    "minSdkVersion": "22",
+    "targetSdkVersion": "29"
+  }
+}
